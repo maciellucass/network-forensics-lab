@@ -1,4 +1,4 @@
-# Network Forensics Lab
+## Network Forensics Lab
 
 This repository contains hands-on investigations focused on network traffic analysis, malware detection and incident investigation using PCAP files.
 
@@ -6,7 +6,7 @@ The goal is to simulate real-world Security Operations Center (SOC) scenarios, i
 
 ---
 
-## Objectives
+### Objectives
 
 - Analyze network traffic using Wireshark
 - Investigate malware infections through PCAP data
@@ -16,7 +16,7 @@ The goal is to simulate real-world Security Operations Center (SOC) scenarios, i
 
 ---
 
-## Tools & Technologies
+### Tools & Technologies
 
 - Wireshark
 - PCAP (Packet Capture Analysis)
